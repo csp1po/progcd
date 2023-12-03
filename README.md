@@ -30,16 +30,16 @@ Para prosseguir, siga as instruções abaixo, de acordo com o Sistema Operaciona
 
 ## Passo #3: Instalando a extensão para trabalhar com Python
 
-2.1) Clique no ícone da figura abaixo que fica no lado esquerdo (Barra de Atividades). Ele faz o gerenciamento das extensões.
+3.1) Clique no ícone da figura abaixo que fica no lado esquerdo (Barra de Atividades). Ele faz o gerenciamento das extensões.
 
 ![Tela de abertura VSCode](img_readme/instala_extensao_python.png)
 
-2.2) Digite `Python` na caixa de texto à esquerda
+3.2) Digite `Python` na caixa de texto à esquerda
 Você irá visualizar uma lista das extensões mais populares do VS Code.
 
 ![digita python caixa de texto](img_readme/digita_python_caixa_texto.png)
 
-2.3) Clique na primeira opção da lista. Depois, clique no botão azul “**Instalar**”. Quando a instalação estiver completa, o botão “**Instalar**” irá mudar para “**Desinstalar**”. Irá aparecer também o botão “Desabilitar”.
+3.3) Clique na primeira opção da lista. Depois, clique no botão azul “**Instalar**”. Quando a instalação estiver completa, o botão “**Instalar**” irá mudar para “**Desinstalar**”. Irá aparecer também o botão “Desabilitar”.
 
 ![digita python caixa de texto](img_readme/botoes_desinstalar_desabilitar.png)
 
