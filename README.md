@@ -8,5 +8,5 @@
 
 UA   | Aula   | Link
 ---- | ------ | ------------ 
-UA 1 | Aula02 | [texto](link)
+UA 1 | Aula02 | [Lista Exercícios](https://github.com/csp1po/progcd/tree/UA1_Aula02_Lista)
 UA 1 | Aula03 | [texto](link)
