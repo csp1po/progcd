@@ -4,6 +4,8 @@
 ## O link para o tutorial é este:
 [https://github.com/csp1po/progcd/tree/t1_instalando_python_vscode](https://github.com/csp1po/progcd/tree/t1_instalando_python_vscode)
 
+---
+
 ### Na tabela abaixo você encontra os links de atividades chamadas recursos tipo 02 (Na Prática)
 
 UA   | Aula   | Link
